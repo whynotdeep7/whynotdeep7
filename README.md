@@ -1,4 +1,4 @@
-![](https://leetcard.jacoblin.cool/whynotdeep7?ext=heatmap)
+![](https://leetcard.jacoblin.cool/whynotdeep?ext=heatmap)
 
 <!--
 **whynotdeep7/whynotdeep7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
