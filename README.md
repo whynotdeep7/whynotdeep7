@@ -4,7 +4,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div> -->
 
-<h2 align="center">Leetcode Info<h2>
+<!--<h2 align="center">Leetcode Info<h2>
   <!-- Badges that i get-->
 <p align="center">
   <!--
