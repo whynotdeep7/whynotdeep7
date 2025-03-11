@@ -1,4 +1,4 @@
-##Hi 👋!I am Deepak
+## Hi 👋!I am Deepak
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-c-5a6969251) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/heydeepakc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepakchoudhary3365@gmail.com) 
