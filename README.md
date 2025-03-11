@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whynotdeep7&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
----
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/whynotdeep7/count.svg?"  />
 </div>
