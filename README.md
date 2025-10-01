@@ -11,9 +11,9 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=whynotdeep7&theme=highcontrast&hide_border=false" alt="language graph" height="150">
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/whynotdeep7/count.svg?"  />
-</div>
+</div> -->
 
 ###
 
