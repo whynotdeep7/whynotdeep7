@@ -8,7 +8,7 @@
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=whynotdeep7&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" alt="stats graph" height="150">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=whynotdeep7&theme=highcontrast&hide_border=false" alt="language graph" height="150">
+  <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=whynotdeep7&theme=highcontrast&hide_border=false" alt="language graph" height="150"> -->
 </p>
 
 <!-- <div align="center">
